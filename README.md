@@ -9,7 +9,7 @@ Long Short-Term Memory (LSTM) is a kind of Recurrent Neural Network (RNN) with t
 Autoregressive integrated moving average (ARIMA) is the classic method to forecast time series and is based on parametric models.  
 
 ### LSTM
-The first publication that I will refer is [Time Series Forecasting with the Long Short-Term Memory Network in Python](https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/). As you can see in so didactic Brownlee post, LSTM is applied to univariate time series forecast with Tensorflow and Keras Python tools in the next steps:
+The first publication that I will refer is [Time Series Forecasting with the Long Short-Term Memory Network in Python](https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/). As you can see in so didactic Brownlee post, LSTM is applied to univariate time series forecast through Tensorflow and Keras Python tools with the next steps:
 + Data loading
 + Data preparation
 + Test design
